@@ -1,0 +1,93 @@
+body {
+  background-color: white;
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 100px;
+  color: Khaki;
+  text-align: center;
+  text-shadow: 3px 3px #000;
+  margin: 30px 0;
+}
+
+h2 {
+  font-size: 32px;
+  color: white;
+  padding-left: 2%;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+
+.border {
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+  margin-bottom: 2.5%;
+}
+
+
+.brushes {
+  background-color: mediumseagreen;
+}
+
+
+.background {
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+  height: 40%;
+  margin: 0;
+  padding: 0;
+}
+
+.brushBackground {
+  background-image: url('https://c8.alamy.com/comp/2DB6TNK/a-group-of-different-sized-artist-paintbrushes-in-a-brightly-colored-holder-in-front-of-the-painters-palette-2DB6TNK.jpg');
+ 
+}
+
+.flush {
+  padding: 0;
+  margin: 0;
+}
+
+.frameBackground {
+  background-image: url('https://images.pexels.com/photos/2065650/pexels-photo-2065650.jpeg?cs=srgb&dl=pexels-romka-2065650.jpg&fm=jpg');
+}
+
+
+.description {
+  background-color: white;
+  padding: 2%;
+  margin: 0;
+}
+
+.frames {
+  background-color: rgb(240, 127, 127);
+}
+
+.head {
+  background-color: rgb(232, 190, 2, 0.7);
+}
+
+
+.paint {
+  background-color: skyblue;
+
+}
+
+.paintBackground {
+  background-image: url('https://st.depositphotos.com/2589073/2972/i/950/depositphotos_29725985-stock-photo-background-image-of-bright-oil.jpg');
+}
+
+.prices {
+  color: blue;
+}
