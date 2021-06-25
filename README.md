@@ -13,4 +13,6 @@ The rest of the page’s styling (font sizes, colors, etc.) is outlined in the f
 ![Spec Page!](./spec.jpg)
 
 
-## Completed Project
+## Completed First Draft
+
+![Homepage Draft!](./dasmotos.png)
